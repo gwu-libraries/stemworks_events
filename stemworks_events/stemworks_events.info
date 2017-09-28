@@ -1,0 +1,7 @@
+name = Stemworks_Events
+description = View Stemwork Events
+
+; Information added by Drupal.org packaging script on 2017-04-08
+version = "7.x-2.13"
+core = "7.x"
+datestamp = "1491658093"
